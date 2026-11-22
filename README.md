@@ -1,6 +1,8 @@
-Hi, I'm Cyril Egenti 👋
+**Hi, I'm Cyril Egenti 👋**
 
-Data Analyst | Excel | Power BI | SQL
+Data Analyst  
+
+Excel | Power BI | SQL
 
 Welcome to my GitHub profile!
 
@@ -8,9 +10,9 @@ I'm a Data Analyst, passionate about transforming raw data into meaningful insig
 
 I enjoy analysing datasets, identifying trends, solving business problems and creating interactive dashboards.
 
-🛠️ Technical Skills
+**🛠️ Technical Skills**
 
-Data Analysis Tools
+**Data Analysis Tools**
 
 Microsoft Excel
 
@@ -18,7 +20,7 @@ Power BI
 
 SQL
 
-Data Analytics Techniques
+**Data Analytics Techniques**
 
 Data Cleaning and Preparation
 
@@ -32,7 +34,7 @@ Data Reporting
 
 Business Intelligence
 
-Professional Skills
+**Professional Skills**
 
 Analytical Thinking
 
@@ -42,11 +44,11 @@ Attention to Detail
 
 Data Storytelling
 
-🎯 Career Goal
+**🎯 Career Goal**
 
 To leverage data analytics skills to uncover valuable insights and support better business decisions.
 
-📫 Connect With Me
+**📫 Connect With Me**
 
 LinkedIn: 📫 Connect With Me
 
