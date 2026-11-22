@@ -32,6 +32,7 @@ Data Reporting
 
 Business Intelligence
 
+
 **Professional Skills**
 
 Analytical Thinking
@@ -42,9 +43,11 @@ Attention to Detail
 
 Data Storytelling
 
+
 **🎯 Career Goal**
 
 To leverage data analytics skills to uncover valuable insights and support better business decisions.
+
 
 **📫 Connect With Me**
 
