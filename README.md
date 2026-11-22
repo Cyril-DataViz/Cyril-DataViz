@@ -10,19 +10,37 @@ I enjoy analysing datasets, identifying trends, solving business problems and cr
 
 🛠️ Technical Skills
 
+Data Analysis Tools
+
 Microsoft Excel
 
 Power BI
 
 SQL
 
-Data Cleaning
+Data Analytics Techniques
 
-Data Analysis
+Data Cleaning and Preparation
+
+Exploratory Data Analysis (EDA)
 
 Data Visualization
 
 Dashboard Development
+
+Data Reporting
+
+Business Intelligence
+
+Professional Skills
+
+Analytical Thinking
+
+Problem Solving
+
+Attention to Detail
+
+Data Storytelling
 
 🎯 Career Goal
 
